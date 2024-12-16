@@ -1,0 +1,17 @@
+{
+    "wave_number": 21,
+    "prompt_fname": "prompt.txt",
+    "model_name": "meta-llama/Llama-2-13b-chat-hf",
+    "device": "cuda",
+    "experiment_results_folder":"Llama2_all",
+    "generation_config": {
+        "max_new_tokens": 300,
+        "temperature": 1,
+        "do_sample": true
+    },
+    "quantization_config": {
+        "load_in_8bit": true,
+        "bnb_4bit_compute_dtype": "float16"
+    },
+    "batch_size":8 
+}

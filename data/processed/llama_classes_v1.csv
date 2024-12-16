@@ -1,0 +1,55 @@
+,Code,Category,Examples,Category_Eng
+0,-99,keine Angabe,"…, xxx, asdf, k.A., sag ich nicht, Elefantenbabys",No information
+1,-98,weiß nicht,"weiß ich nicht, weiß nicht, keine Ahnung, kann ich nicht sagen",Do not know
+2,1,Sonstiges,-,Other
+3,2,Wahlkampf und Regierungsbildung,"der nächste Bundeskanzler, Koalitionsverhandlungen, Wahl des Bundespräsidenten, Beteiligung der CSU an der Regierung, die Wahl",Election campaign and government formation
+4,3,Politische Strukturen und Prozesse,"Regierungsform, Föderalismus, Kritik an Bundesorganen, staatliche Organisationsprinzipien, Bundestag, die Politik ist zu langsam, der Bundeskanzler, die Bundesregierung, die Regierenden interessieren sich nicht, Verkehrte Menschen in der Regierung. Alle wollen nur einen Haufen Geld, Durchsetzung von Wahlversprechen, Politik, Politikerdiäten, zu wenig Opposition",Political structures and processes
+5,4,"Werte, politische Kultur und Gesellschaftskritik","Nationalismus, Rechtsruck, rechte Politik vermeiden, Tendenz nach rechts, links-grüne Ideologie dominiert die Agenda, Nationalismus, Perspektivlosigkeit, Sozialneid, es fehlt der Zusammenhalt, keine Solidarität in der Bevölkerung, sozialer Frieden, Unzufriedenheit der Bevölkerung, Gier, Meinungen von Menschen werden diskreditiert","Values, political culture, and social criticism"
+6,5,Demokratie,"Demokratieerhaltung, mehr Bürgerbeteiligung, dass Bürger nicht gefragt werden, mehr Bürgernähe, Verschwinden der Demokratie steuern auf eine Diktatur zu, Demonstrationen, Diktatur",Democracy
+7,6,Medien,"Lügenpresse, GEZ, Rundfunkbeitrag, Pressefreiheit",Media
+8,7,Bürokratie,"Überbürokratisierung des gesamten Lebens, Beamtentum abschaffen, Behörden",Bureaucracy
+9,8,Lobbyismus,"Einfluss der Wirtschaft, Macht der Wirtschaft in der Politik",Lobbyism
+10,9,Korruption,"Maskenaffäre, Lobbyismus und Korruption, Wirtschaft regiert Korruption nimmt zu, Vetternwirtschaft, korrupte Politik(er)",Corruption
+11,10,Politikverdrossenheit,"Desinteresse der Bevölkerung, Politikmüde, Politikverdrossenheit, Die Menschen sind zu unpolitisch, die Bürger haben das Vertrauen in die Politik verloren",Disillusionment with politics
+12,11,Parteienkritik allgemein,"die Parteien kümmern sich nicht mehr um die normalen Bürger, die vielen Parteien, Eigensinnigkeit der Parteien, Parteien- und Mediendiktatur, große Parteien, zu viele rechte Parteien, Rechtsruck der Parteien, keine klaren Richtungen der Parteien, Altparteien",General criticism of parties
+13,12,Parteienkritik spezifisch,"einfache Nennung einer Partei, Die SPD ist nicht mehr das wofür sie mal stand, AfD im Bundestag",Specific criticism of parties
+14,13,Politiker:innenkritik allgemein,"Politiker ignorieren das Volk, Unehrlichkeit der Politiker, fehlende Staatsmänner, kein Vertrauen in Politiker, Politiker reden nur und tun nichts, die Politiker, Sie kümmern sich nicht ums Volk, Sie halten nicht was sie versprechen, Nebeneinkünfte der Politiker",General criticism of politicians
+15,14,Politiker:innenkritik spezifisch,"Merkel, Seehofer, Bundeskanzler Scholz",Specific criticism of politicians
+16,15,Populismus,"Populismus, Rechtspopulismus, Stimmungsmache, Verleumdung, Volksverhetzung",Populism
+17,16,Innere Sicherheit,"Innenpolitik, zu wenig Polizei, mehr Sicherheit gewährleisten, Polizeigewalt",Internal security
+18,17,Kriminalität und Gewalt,"Kriminalitätsrate, zunehmende Gewalt, Kriminalität durch Flüchtlinge, Gewalt gegen Frauen, Einbrüche und Überfälle, kriminelle Asylanten, Straftaten durch Ausländer",Crime and violence
+19,18,Terrorismus,"NSU, RAF, Terror, Terrorismus, Terrorbekämpfung, Gefahr von Anschlägen, Anschläge, Terrorgefahr durch Merkels Flüchtlingspolitik",Terrorism
+20,19,Radikalisierung und Extremismus,"Extremismusbekämpfung, radikale Linke und Rechte im Zaum halten, Gefahr durch Islamismus, Fremdenfeindlichkeit, zu viele Nazis, rechte Szene, Salafisten, Hass",Radicalization and extremism
+21,20,Recht und Justiz,"die abhanden gekommene Freiheit, Beckenbauer muss in den Knast, Durchsetzung der Gesetze, Rechtsstaatlichkeit, Sexualstrafrecht, Drogen entkriminalisieren, Cannabislegalisierung, öffentliche Hetze strafrechtlich verfolgen, Beschneidung der freien Meinungsäußerung, Missachtung der Grundrechte, Zensur, Staatstrojaner, Vorratsdatenspeicherung, Überwachung der Leute, Sperrung von Internetseiten",Law and justice
+22,21,Außenpolitik,"die weltpolitische Lage, Rüstungsexporte und Krieg, friedliche Außenpolitik, zu viel Außenpolitik, Freihandelsabkommen TTIP mit den USA, Handelskonflikt mit den USA, Waffen an die Kurden, Umgang mit Autokraten wie Erdogan, zu viele Gelder gehen ins Ausland und zu wenig wird für uns Bürger gemacht, äußere Sicherheit, Menschenrechte",Foreign policy
+23,22,Europa und Europäische Union,"Brexit, Europa zusammenhalten, gemeinsame europäische Außenpolitik, der Zusammenhalt Europas, Deutschland ohne Europa, Deutschland soll sich auch auf sich besinnen und sich nicht zu sehr von Brüssel abhängig machen",Europe and the European Union
+24,23,(Beziehungen Deutschlands zu den) USA,"Trump, Die Abhängigkeit von den USA, Amerikas Importsteuern, US-hörig und russlandfeindlich, Trump und Nordkorea",Relations of Germany to the USA
+25,24,(Beziehungen Deutschlands zu) Russland,"Konflikt mit Russland, wirtschaftliche Beziehungen zu Russland ausbauen, UdSSR, US-hörig und russlandfeindlich",Relations of Germany to Russia
+26,25,(Beziehungen Deutschlands zur) Türkei,"Ärger mit der Türkei, Erdogan und die Flüchtlingsroute",Relations of Germany to Turkey
+27,26,Internationale Konflikte und Frieden,"Atomwaffen Iran/Nordkorea, Kriegsgefahr, Japan China Konflikt, IS-Terror, Ost-West-Konflikt, Krieg im Nahen Osten, internationale Spannungen, Giftanschlag in England, Syrienkrieg, Frieden in Europa, kein Krieg, internationale Sicherheit",International conflicts and peace
+28,27,Krieg in der Ukraine,"Ukraine, Ukraine-Krieg, Putinkrieg, Krimkrise, Waffen für die Ukraine",War in Ukraine
+29,28,Verteidigung,"Aufrüstung, Wehrpflicht, Ausrüstung der Bundeswehr, deutsche Truppen in Afghanistan, Verteidigungsausgaben, NATO",Defense
+30,29,Sozialpolitik,"ungerechte soziale Leistungen, wachsender Sozialstaat ohne Konzept, soziale Probleme, junge Menschen müssen vom Staat mehr gefördert werden, Obdachlosigkeit, Sozialbetrug, leere Sozialversicherungskassen (Arbeit Rente Krankenkasse), soziale Sicherheit, Grundsicherung bei Erkrankung, soziale Marktwirtschaft",Social policy
+31,30,Soziale Gerechtigkeit,"die Ungleichheit, Chancengleichheit, Bevorzugung der Reichen, soziale Schieflage, die Armen werden ärmer und die Reichen reicher, ungerechte Einkommen, Vermögen besser verteilen, 2-Klassen-Gesellschaft, die Mittelschicht verschwindet",Social justice
+32,31,Armut,"Dass Leute zur Tafel müssen, Menschen die hungern, zu wenig Geld für arme Kinder, Rentner an der Armutsgrenze, Hunger",Poverty
+33,32,Arbeitsmarktpolitik,"Arbeit, Beschäftigungssituation, Überarbeitung unserer Arbeitswelt, Fachkräftemangel, Ausbildungsplätze, gerechte Tarifpolitik, Mini-Jobs, Leiharbeit, unfähige Jobagentur, Niedriglohnsektor, Erhalt der Arbeitsplätze, Vollbeschäftigung",Labor market policy
+34,33,Arbeitslosigkeit und Grundsicherung,Arbeitslosigkeit bzw. die Unlust vieler Jugendlicher auf Arbeit und Hartz-IV,Unemployment and basic security
+35,34,Lohnpolitik,"bessere Bezahlung der Arbeit, gerechtere Löhne, soziale Berufe sind unterbezahlt, Lohngefüge in Deutschland, Niedriglohnland, Leute können von Gehalt nichts sparen, Arbeiten gehen lohnt sich nicht",Wage policy
+36,35,Rente und Demographischer Wandel,"auf Alte achten, Vorsorge für mein Alter, Lebensarbeitszeit, Überalterung, zu wenig Geburten, Generationenkonflikt",Pension and demographic change
+37,36,Migration und Integration,"Grenzen dicht, zu viele Neubürger, Aussiedler, Aufenthaltsrecht, Ausweisung aller straftätigen Asylbewerber, Abschiebungen durchsetzen, Obergrenze für Flüchtlinge",Migration and integration
+38,37,Gesundheitspolitik,"Kostenstruktur im Krankenhausbereich, Ärztemangel, Einführung der Bürgerversicherung, Gesundheitswesen (z.B. Pflege), keine Versicherung für Hebammen",Health policy
+39,38,Pflege,"Im Sozialsystem fehlen Pfleger. Zu geringe Löhne in Altenpflege., Ausbildungsbedingungen der Pflegekräfte, schlechte Bezahlung der Pflegekräfte",Care
+40,39,Corona-Pandemie,"Pandemie, Impfpflicht, Sofortige Wiederherstellung aller Grundrechte für alle Menschen (auch für Ungeimpfte) Abschaffung der Maskenpflicht Abschaffung der Testpflicht keine Impfpflicht, Epidemiebekämpfung, Corona-Leugner",Corona pandemic
+41,40,Familienpolitik,"Elterngeld, Kinderbetreuung, Erziehung, mehr Erzieher, Zustand der Kinder Jugendlichen während der Pandemie, Vereinbarkeit von Beruf und Familie, Kinder fördern, Perspektivlosigkeit bei der Jugend",Family policy
+42,41,Gleichstellung,"Feminismus, Ehe für alle, Adoptionen für Homosexuelle, Gleichberechtigung aller Kulturen, zu viel Genderpolitik, Frauen verdienen weniger als Männer, Barrierefreiheit, Integration von Behinderten, Inklusion",Equality
+43,42,Bildungspolitik,"Bildung, Bafög, Bildungsföderalismus, in Bildung investieren, Bildungschancen für alle, zu viele Studenten, kostenlose Bildung für alle",Education policy
+44,43,Schulpolitik,"Lehrermangel, Ganztagsschulen, Pisa-Studie, Zustand der Schulen, Bildung der Schüler, Schule",School policy
+45,44,Energiepolitik,"Ausbau/Finanzierung alternativer Energien, mehr Atomkraft, steigende Energiepreise, die Abhängigkeit von Energie, Braunkohle soll nicht mehr abgebaut werden, Energie und Klima, Strom und Gas, Energiesicherheit, weg von Fossilen, Windräder",Energy policy
+46,45,Umweltpolitik,"Massentierhaltung, Artenschutz, Abgase, Agrarwende, ökologische Landwirtschaft, nachhaltige Forstwirtschaft, Nachhaltigkeit, ökologische Gerechtigkeit, Feinstaub und Smog, Verschwendung von natürlichen Ressourcen, sozialverträglicher Umweltschutz, Plastik, Ökosteuer, Dieselskandal",Environmental policy
+47,46,Klimapolitik,"Klimaschutzziele, Co2-Emmissionen, Klimakatastrophe",Climate policy
+48,47,Naturkatastrophen,"Flutopfer im Ahrtal, Katastrophenschutz",Natural disasters
+49,48,Wirtschaftspolitik,"Innovationskultur, Autoindustrie, die Wirtschaft in der EU, Konjunktur anheben, Banken, persönliche Wirtschaftslage, Wirtschaftswachstum, Finanzkrise, Besteuerung von KMU, Landwirtschaft, Investitionsstau, sozialökologische Wirtschaft, Börsenkapital, Kapitalismus, Finanzwirtschaft, der Mittelstand…",Economic policy
+50,49,Preisniveau,"die hohen Preise, alles wird teurer, Kaufkraftverlust, Preisanstieg, unbezahlbare Lebensmittel, Kosten für Bürger sollten niedriger sein, hohe Lebenshaltungskosten, Geldentwertung",Price level
+51,50,Infrastruktur,"Investitionen in die Infrastruktur, schlechte/öffentliche Infrastruktur",Infrastructure
+52,51,Digitale Infrastruktur,"Digitalisierung in deutschen Behörden, Breitbandausbau, Glasfaser, schlechter Mobilfunk, Arbeitslosigkeit infolge von Digitalisierung",Digital infrastructure
+53,52,Verkehrspolitik,"Verkehrswende, E-Mobilität, E-Autos, marode Straßen, Verbot der Benziner, Verkehr und Lärm, Verkehrsinfrastruktur, Straßenbau",Transport policy

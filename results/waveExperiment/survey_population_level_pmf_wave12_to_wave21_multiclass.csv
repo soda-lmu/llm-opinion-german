@@ -1,0 +1,18 @@
+highest_prob_label,12,13,14,15
+Politische Strukturen und Prozesse,0.0724,0.0271,0.0297,0.0516
+Sozialpolitik,0.2374,0.0753,0.0908,0.0857
+Gesundheitspolitik,0.0096,0.595,0.5421,0.5415
+Familien- und Gleichstellungspolitik,0.0026,0.0014,0.001,0.0029
+Bildungspolitik,0.0223,0.01,0.0113,0.0143
+Umweltpolitik,0.1394,0.0197,0.0321,0.0424
+Wirtschaftspolitik,0.0831,0.0894,0.0622,0.0844
+Sicherheits,0.0754,0.0175,0.0397,0.0243
+Außenpolitik,0.0124,0.0032,0.0027,0.0033
+Medien und Kommunikation,0.0003,0.0002,0.0006,0.0009
+Sonstiges,0.0297,0.0206,0.0209,0.0325
+Migration und Integration,0.23,0.0951,0.1107,0.0636
+Ostdeutschland,0.0019,0.0001,0.0001,0.0004
+keine Angabe,0.0369,0.03,0.0348,0.0312
+weiß nich,0.011,0.0073,0.008,0.0075
+LLM refusal,0.0,0.0,0.0,0.0
+"Werte, politische Kultur und Gesellschaftskritik",0.0355,0.0081,0.0135,0.0135

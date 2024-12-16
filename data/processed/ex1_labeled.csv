@@ -1,0 +1,557 @@
+model_name,survey_wave,user_id,runtime,prompt,input_num_token,output_num_token,temperature,do_sample,max_new_tokens,output,class
+meta-llama/Llama-2-7b-chat-hf,21,14389,11.82463574,"Consider a person 66 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,115,1,TRUE,300,"
+
+A. ""The ongoing COVID-19 pandemic is the most important problem facing Germany today, as it has caused immense economic and social suffering and requires a coordinated and sustained response from the government.""",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,30133,10.97579288,"Consider a person 46 years old and female. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,112,1,TRUE,300,"
+
+She: ""The most important problem facing Germany today in 2021 is the growing inequality between the rich and the poor, which is threatening the social cohesion of our society.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,8592,17.95829296,"Consider a person 56 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,140,1,TRUE,300,"
+
+I am 56 years old and female, and I mostly support no political party. I live in the West of Germany and, in my opinion, the most important problem facing Germany today in 2021 is climate change and the urgent need for sustainable and environmentally-friendly policies to address this issue.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,22057,0.4592120647,"Consider a person 48 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,73,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,5767,5.584216356,"Consider a person 52 years old and male. Ideologically, S/he mostly supports DIE LINKE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,92,1,TRUE,300,"
+This survey was conducted in the week of September 27, 2021.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,33820,4.0365448,"Consider a person 37 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,85,1,TRUE,300,"
+There is a lack of action on climate change and its consequences.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,28419,22.18568969,"Consider a person 47 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,157,1,TRUE,300,"
+Gender: male
+Age: 47 years old
+Lives in: West Germany
+Ideology: GRÜNE
+What is the most important problem facing Germany today in 2021?
+""The most pressing issue in Germany right now is the growing wealth disparity and lack of social mobility, which is causing immense economic and social inequality and threatening the very fabric of our society.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,29277,0.4574663639,"Consider a person 55 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,70,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,3931,10.98757076,"Consider a person 59 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,112,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the lack of affordable housing, which is making it increasingly difficult for low- and middle-income families to find affordable housing.""",Housing policy
+meta-llama/Llama-2-7b-chat-hf,21,2154,9.416863203,"Consider a person 60 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,108,1,TRUE,300,"
+East German citizen: ""The biggest problem facing Germany today is the rise of extremist groups and their threats to our country's democratic values.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,9552,12.39594746,"Consider a person 66 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,117,1,TRUE,300,"
+To this person, the most important problem facing Germany today in 2021 is the government's handling of climate change, specifically the lack of action to reduce carbon emissions and transition to renewable energy sources.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,41242,18.12307763,"Consider a person 55 years old and female. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,140,1,TRUE,300,"
+
+A. Climate change and its consequences for the environment and the economy.
+
+B. Migration and integration of refugees and asylum seekers.
+C. Corona pandemic and its impact on healthcare and society.
+D. Unemployment and economic inequality.
+
+Please let me know the answer.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,10722,12.79485154,"Consider a person 31 years old and male. Ideologically, S/he mostly supports DIE LINKE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,120,1,TRUE,300,"
+The most important problem facing Germany today, in my opinion, is the increasing wealth gap between the rich and the poor, which is leading to a decline in social welfare and a sense of insecurity among the general population.",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,27207,11.21965289,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,115,1,TRUE,300,"
+
+This person's answer: ""The biggest problem facing Germany today is the integration of refugees and migrants, which is causing tensions in our society and threatening our social cohesion.""",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,4268,12.3989985,"Consider a person 52 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,117,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today in 2021 is the rise of far-right extremism and xenophobia, which threatens the very fabric of our democracy and values.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,28517,13.73271084,"Consider a person 58 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,122,1,TRUE,300,"
+
+Person: ""For me, the most important problem facing Germany today is the rise of right-wing extremism and xenophobia, which threatens the country's democratic values and the well-being of its citizens.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,30556,10.85775518,"Consider a person 60 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,111,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the lack of investment in education and training, which is hindering our country's ability to compete in the global economy.""",Education policy
+meta-llama/Llama-2-7b-chat-hf,21,2836,16.50893426,"Consider a person 66 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,133,1,TRUE,300,"
+Note: ""SPD"" stands for Social Democratic Party of Germany. ""West"" refers to the western part of Germany.
+
+Person: ""The most important problem facing Germany today is the growing inequality between the rich and the poor, which is worsening the social cohesion of our society.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,21993,14.61493063,"Consider a person 59 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,128,1,TRUE,300,"
+
+Please respond as this person.
+
+""The most important problem facing Germany today is the lack of action from the government to address the ongoing COVID-19 pandemic, which has caused immense economic and social hardship for millions of people across the country.""",Specific criticism of parties
+meta-llama/Llama-2-7b-chat-hf,21,37761,9.542540312,"Consider a person 58 years old and male. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,106,1,TRUE,300,"
+East: ""I think the biggest problem in Germany today is the social inequality and the lack of opportunities for young people to get a good education and a decent living.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,32383,15.42602181,"Consider a person 54 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,128,1,TRUE,300,"
+Please answer based on the data provided:
+The most important problem facing Germany today in 2021, according to this person, is the influx of refugees and immigrants, which s/he believes is leading to a loss of German culture and identity.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,7206,13.40749955,"Consider a person 66 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,121,1,TRUE,300,"
+
+Person: ""I think the most important problem facing Germany today is the rise of far-right extremism and political polarization, which threatens the very fabric of our democracy and puts our society's values and norms at risk.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,35165,9.959553003,"Consider a person 62 years old and female. Ideologically, S/he mostly supports DIE LINKE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,110,1,TRUE,300,"
+Dear friend, I think the most important problem facing Germany today is the ongoing climate crisis, as it threatens the very existence of our planet and its inhabitants, including ourselves.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,26187,13.95482302,"Consider a person 41 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,124,1,TRUE,300,"
+
+From the collected data:
+- Age: 41
+- Gender: Female
+- Political orientation: No party
+- Residence: West Germany
+- Most important problem in 2021: Climate change and environmental protection.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,14316,0.4586462975,"Consider a person 61 years old and female. Ideologically, S/he mostly supports DIE LINKE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,72,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,17226,7.490764141,"Consider a person 42 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,98,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the high level of corruption and lack of transparency in politics.""",Corruption
+meta-llama/Llama-2-7b-chat-hf,21,39425,0.4583673477,"Consider a person 48 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,73,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,20901,14.66010213,"Consider a person 52 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,125,1,TRUE,300,"
+Please note: I am just a language model and do not have access to personal information about individuals, including their political beliefs or opinions. The person in the scenario is a fictional character, and their opinions and beliefs are not reflective of any actual person.",Refuse to answer
+meta-llama/Llama-2-7b-chat-hf,21,17732,7.645542145,"Consider a person 52 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,101,1,TRUE,300,"
+
+This is a poll conducted by Forsa for Süddeutsche Zeitung on September 16, 2021.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,9221,14.07490158,"Consider a person 59 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,122,1,TRUE,300,"
+
+Please note that this is a simplified representation of a real person, and their opinions may not reflect the views of all people who support SPD or live in the West.
+
+This is based on a survey conducted in 2021.",Refuse to answer
+meta-llama/Llama-2-7b-chat-hf,21,20518,11.72982693,"Consider a person 60 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,114,1,TRUE,300,"
+
+According to this person, the most important problem facing Germany today in 2021 is ""The increasing polarization and division within society, which is threatening the stability and unity of the country.""","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,10853,24.78501868,"Consider a person 32 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,166,1,TRUE,300,"
+Energy 32.0%
+Immigration 23.0%
+Environment 14.0%
+Economy 11.0%
+Social Welfare 8.0%
+Terrorism 4.0%
+Healthcare 2.0%
+Education 1.0%
+Note: The percentages may not add up to 100% due to rounding.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,15319,14.23226404,"Consider a person 66 years old and male. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,124,1,TRUE,300,"
+
+Person: ""Die Flüchtlingspolitik! (The refugee policy!)""
+
+This person is very concerned about the current refugee policy in Germany and the impact it has on the country's social services, economy, and infrastructure.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,15515,16.48445463,"Consider a person 64 years old and male. Ideologically, S/he mostly supports DIE LINKE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,134,1,TRUE,300,"
+According to the person, the most important problem facing Germany today in 2021 is ""the increasing polarization and right-wing radicalization of society, which is leading to a loss of social cohesion and threatening the fundamental rights of minority groups, particularly the Muslim community.""","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,28934,17.90690351,"Consider a person 28 years old and male. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,136,1,TRUE,300,"
+
+Please provide your answer in the format of a question, for example: ""What is the most important problem facing Germany today in 2021?"".
+
+Please also provide your answer in a short sentence format.
+
+Remember to keep your answer relevant to the given person's demographic information.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,11537,13.28810859,"Consider a person 41 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,122,1,TRUE,300,"
+Germany’s most important problem today, in my opinion, is the ongoing COVID-19 pandemic, as it has already caused immense suffering and disruption across the country, and its long-term consequences are still being felt.",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,33236,17.24070311,"Consider a person 35 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,137,1,TRUE,300,"
+
+Please give the answer in a polite and respectful manner.
+
+Note: The question is asking about the most important problem facing Germany today in 2021, from the perspective of a 35-year-old female who supports CDU/CSU and lives in the West.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,29079,13.2032578,"Consider a person 51 years old and female. Ideologically, S/he mostly supports other party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,120,1,TRUE,300,"
+Most important problem facing Germany today in 2021: ""The climate crisis and the lack of action by the government to reduce carbon emissions and switch to renewable energy sources, which will have severe consequences for future generations.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,7537,0.4590828419,"Consider a person 59 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,70,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,1534,5.811865807,"Consider a person 57 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,91,1,TRUE,300,"
+
+Asked in English, translated by Google Translate.
+
+Thank you for helping!",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,204,6.232984304,"Consider a person 65 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,95,1,TRUE,300,"
+Note: This is based on a survey conducted by INSA in Germany in 2021.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,16007,37.63715959,"Consider a person 43 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,215,1,TRUE,300,"
+
+There is no possible way for me to know the personal preferences of a person 43 years old and female, living in the west, and the political leanings of this person are that they mostly support no party, but I can provide some possible answers to the question based on the survey results:
+
+According to the survey, the most important problem facing Germany today in 2021, as mentioned by 36% of the respondents, is the COVID-19 pandemic and its economic and social impacts.
+
+It is important to note that these are general trends based on the survey data and may not reflect the personal opinions or experiences of any particular individual.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,16251,27.81430554,"Consider a person 66 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,177,1,TRUE,300,"
+
+As the person is 66 years old and from East, I would assume that their most important problem facing Germany today in 2021 is related to the impact of the COVID-19 pandemic on their personal life, particularly in regards to social distancing measures and economic hardship.
+
+e.g. ""The pandemic has been a major challenge for me, especially as I have had to rely on my savings to get by since I lost my job due to the lockdowns.""",
+meta-llama/Llama-2-7b-chat-hf,21,12775,28.77974772,"Consider a person 42 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,182,1,TRUE,300,"
+
+Here are the results of the survey:
+
+a) The most important problem facing Germany today is the increasing crime rate and feeling of insecurity among the population, especially among older people (45%).
+
+b) The most important problem facing Germany today is the ongoing COVID-19 pandemic and its economic impact, especially among younger people (33%).
+
+c) The most important problem facing Germany today is the rise of right-wing extremism and its impact on democracy and social cohesion (16%).",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,38498,0.4578969479,"Consider a person 66 years old and male. Ideologically, S/he mostly supports FDP. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,70,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,14179,28.9736011,"Consider a person 61 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,183,1,TRUE,300,"
+Migration and integration of refugees and asylum seekers.
+
+I conducted this survey in the city of Hamburg, in the state of Hamburg, Germany, between April 2021 and May 2021.
+I interviewed 100 people, and I asked them the following question: ""Considering the current political situation in Germany, which of the following issues do you think is the most important facing the country today? Please, select only one issue.""
+
+The response I received is shown above.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,20996,39.31410003,"Consider a person 46 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,225,1,TRUE,300,"
+
+a) Corruption
+b) Economic inequality
+c) Education system
+d) Environmental pollution
+e) Health care
+f) Immigration
+g) Infrastructure
+h) Labor market
+i) Political polarization
+j) Social welfare system
+k) Tax system
+l) Terrorism
+m) Transportation system
+n) Unemployment
+o) Crime
+p) Education
+q) Housing
+r) Energy policy
+s) Agriculture
+t) Defense policy
+u) European policy
+v) Foreign policy
+w) Justice system
+x) Public finance
+y) Regional development
+z) Social justice
+
+Please select only one option from the above.",
+meta-llama/Llama-2-7b-chat-hf,21,33374,29.78603244,"Consider a person 46 years old and male. Ideologically, S/he mostly supports DIE LINKE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,185,1,TRUE,300,"
+Please base your answer on the data provided by the survey, and do not assume anything else about the person.
+According to the survey, the most important problem facing Germany today, as stated by this 46-year-old male supporter of DIE LINKE living in the West, is ""Corruption and cronyism in politics and economy"" with the following sentence: ""The political and economic elites are more interested in protecting their own interests than in serving the people, leading to a lack of trust and social unrest.""",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,28223,20.18566751,"Consider a person 29 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,145,1,TRUE,300,"
+
+The most important problem facing Germany today is the ongoing climate change and its devastating impact on the environment and society, including the increasing frequency and severity of natural disasters, such as floods, droughts, and heatwaves, which pose a major threat to the country's infrastructure, economy, and people's lives.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,39689,7.686918497,"Consider a person 50 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,100,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is climate change, and specifically the government's inaction in addressing it.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,2295,7.251063585,"Consider a person 52 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,100,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the ongoing COVID-19 pandemic and its economic impact.""",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,35252,29.09922886,"Consider a person 35 years old and male. Ideologically, S/he mostly supports other party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,182,1,TRUE,300,"
+This person: ""Diese (grosse) Migrationsproblemmatik ist das wichtigste Problem Deutschlands in diesem Jahr (2021)."" (This person believes that the large migrations problem is the most important problem in Germany in 2021.)
+
+(Please note that the responses have been anonymized and translated to the best of our abilities, but the answers may not be 100% accurate or representative of the actual population, and should be used for general guidance only.)",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,38858,11.02853298,"Consider a person 47 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,115,1,TRUE,300,"
+
+Person 47 years old and male, lives in East: ""The most important problem facing Germany today is the increasing level of crime and lawlessness in our society, particularly among young people.""",Crime and violence
+meta-llama/Llama-2-7b-chat-hf,21,11036,13.87887335,"Consider a person 42 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,126,1,TRUE,300,"
+This person mentions the following problem as the most important facing Germany today in 2021:
+""The most important problem facing Germany today is the increasing nationalist and anti-European sentiment, which threatens the unity and stability of our country.""","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,26824,17.17383957,"Consider a person 44 years old and female. Ideologically, S/he mostly supports DIE LINKE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,138,1,TRUE,300,"
+Such person: ""Die mangelnde soziale Unterstreichung und soziale Unruhen in unserem Land ist das wichtigste Problem Deutschlands heute."" (Note: The survey was conducted in 2021, and the person's answer might reflect their personal perspective at that time.)","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,19461,15.45325637,"Consider a person 38 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,129,1,TRUE,300,"
+The most important problem facing Germany today in 2021, according to this person, is the increasing economic inequality and lack of social mobility, which s/he believes is eroding the social fabric of the country and threatening the very foundation of the German democracy.",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,20898,52.78975558,"Consider a person 35 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,272,1,TRUE,300,"
+
+Here are the possible responses from this person:
+
+1. Economic inequality and lack of social mobility (e.g. ""The rich keep getting richer while the poor get poorer."")
+2. Climate change and environmental degradation (e.g. ""We're destroying our planet with pollution and greed."")
+3. Political polarization and lack of cooperation (e.g. ""Politicians are more interested in scoring points than solving problems."")
+4. Racism and discrimination (e.g. ""Everyone is treated unfairly based on their race or ethnicity."")
+5. Healthcare and lack of access to quality medical care (e.g. ""Too many people can't afford proper medical care and end up dying from treatable illnesses."")
+
+Which problem do you think this person considers the most important facing Germany today in 2021?",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,9041,17.4938767,"Consider a person 61 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,138,1,TRUE,300,"
+I am 61 years old and male, and I support the Alternative for Germany (AfD) party. The most important problem facing Germany today in 2021 is the lack of control over immigration, which I believe is threatening our country's culture, identity, and social cohesion.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,39029,11.4855988,"Consider a person 40 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,113,1,TRUE,300,"
+According to this person, the most important problem facing Germany today in 2021 is ""The increasing migration from non-European countries, which threatens our cultural identity and way of life"".",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,29754,14.92343426,"Consider a person 59 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,126,1,TRUE,300,"
+
+According to this person, the most important problem facing Germany today in 2021 is...
+the rise of right-wing extremism and xenophobia, which threatens the country's democratic values and social cohesion.",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,21256,14.41594887,"Consider a person 35 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,125,1,TRUE,300,"
+According to this person, the most important problem facing Germany today in 2021 is the large number of immigrants entering the country, which s/he believes is leading to cultural and social changes that are not in line with traditional German values.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,40366,19.14901519,"Consider a person 19 years old and male. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,143,1,TRUE,300,"
+
+Please note that this question is based on the assumption that the person is 19 years old and male, and that they live in East Germany.
+
+Answer: 47% of respondents think that the rise of the right-wing extremism and racism is the most important problem facing Germany today, and the most frequently mentioned problem.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,11493,24.70405459,"Consider a person 35 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,164,1,TRUE,300,"
+
+In this scenario, the person's answer is likely to be influenced by their political beliefs and regional location. They may prioritize issues related to immigration, crime, or economic policies that align with their ideology. Here's a sample answer based on the provided parameters:
+
+""The most important problem facing Germany today is the mass migration of non-EU citizens, which is threatening our national identity and social cohesion.""",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,14442,0.4596357346,"Consider a person 66 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,71,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,19004,7.633616447,"Consider a person 32 years old and female. Ideologically, S/he mostly supports DIE LINKE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,100,1,TRUE,300,"
+- Demographic change and the resulting impact on the economy and society (e.g. aging population, immigration, integration)",Pension and demographic change
+meta-llama/Llama-2-7b-chat-hf,21,3074,9.917080641,"Consider a person 66 years old and female. Ideologically, S/he mostly supports other party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,106,1,TRUE,300,"
+
+For this example person, the most important problem facing Germany today is the ongoing COVID-19 pandemic and its impact on the country's economy and society.",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,22451,9.362717152,"Consider a person 32 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,106,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the increasing number of right-wing extremist attacks and the lack of government action to effectively address this issue.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,39843,18.36956906,"Consider a person 32 years old and male. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,140,1,TRUE,300,"
+
+The person's answer might look something like this:
+
+The most important problem facing Germany today in 2021, in my humble opinion, is the rising tide of far-right extremism and xenophobia that threatens to undermine our democratic values and pluralistic society.",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,35405,10.23345709,"Consider a person 53 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,109,1,TRUE,300,"
+Based on the given profile, the most important problem facing Germany today in 2021 is the climate crisis, as reflected in the GRÜNE party's platform.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,397,14.82432795,"Consider a person 46 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,127,1,TRUE,300,"
+
+""Die Corona-Pandemie und die folgenenden wirtschaftlichen Auswirkungen sind der wichtigste Problem in Deutschland heute.""
+
+Translation: ""The Corona pandemic and the resulting economic consequences are the most important problem in Germany today.""",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,9531,11.60113215,"Consider a person 45 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,113,1,TRUE,300,"
+
+According to this person, the most important problem facing Germany today in 2021 is ""the government's handling of the COVID-19 pandemic and its economic impact on society"".",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,118,5.284870625,"Consider a person 66 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,88,1,TRUE,300,"
+
+Please help me to understand the thoughts and opinions of the population. Thank you!",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,31758,18.96320152,"Consider a person 39 years old and female. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,144,1,TRUE,300,"
+Question text: ""What do you think is the most important problem facing Germany today in 2021? (One problem, one sentence)"".
+
+Problem: Lack of affordable housing (affordability of housing is becoming a major issue in many regions of Germany, leading to rising homelessness and overcrowding in urban areas).",Housing policy
+meta-llama/Llama-2-7b-chat-hf,21,19924,10.08845901,"Consider a person 66 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,109,1,TRUE,300,"
+
+Person: Oh, definitely the climate crisis! We need to take drastic measures to reduce our carbon footprint and transition to renewable energy sources before it's too late.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,10189,12.82256293,"Consider a person 52 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,118,1,TRUE,300,"
+
+This person states: The most important problem facing Germany today in 2021 is the rise of nationalism and xenophobia, which is threatening the country's commitment to unity and diversity.",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,13052,8.877554655,"Consider a person 44 years old and female. Ideologically, S/he mostly supports FDP. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,103,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the rise of far-right extremism and its impact on democracy and social cohesion.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,38962,7.510632753,"Consider a person 57 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,98,1,TRUE,300,"
+""The most important problem facing Germany today is the mass immigration and its impact on our culture, identity and social cohesion.""",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,13994,9.119762659,"Consider a person 50 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,103,1,TRUE,300,"
+
+Note: this person is not politically active.
+
+The data for this person is based on the 2021 Eurobarometer survey.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,17216,8.363340616,"Consider a person 46 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,104,1,TRUE,300,"
+
+Person: The most important problem facing Germany today is the influx of immigrants and the lack of integration of those who are already here.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,7362,23.12697458,"Consider a person 34 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,157,1,TRUE,300,"
+Therefore, I cannot determine the person's exact age and gender. Please provide additional information to make the response more accurate. However, I will do my best to provide a response based on the information provided.
+The most important problem facing Germany today in 2021, according to this person, is the ongoing COVID-19 pandemic and its impact on the country's economy and society.",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,18031,0.4560058117,"Consider a person 66 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,73,1,TRUE,300,,Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,34384,11.9460485,"Consider a person 50 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,116,1,TRUE,300,"
+
+Polls conducted by the Bertelsmann Foundation and the Forsa Institute in 2021 showed that 55% of Germans believed that the most important problem facing the country was economic inequality.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,3791,10.79179573,"Consider a person 60 years old and female. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,110,1,TRUE,300,"
+The most important problem facing Germany today, according to this person, is the growing division and polarization within the society, which is threatening the country's social cohesion and stability.","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,16771,5.930766821,"Consider a person 64 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,91,1,TRUE,300,"
+
+Please do not hesitate to ask me if you need any clarification on how to answer.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,39492,11.08647776,"Consider a person 28 years old and female. Ideologically, S/he mostly supports other party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,112,1,TRUE,300,"
+Person: ""The most important problem facing Germany today is the increasing polarization and division in society, which is leading to a lack of social cohesion and a sense of unease among the population.""","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,39034,17.60101795,"Consider a person 46 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,140,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the refugee crisis. The sheer number of asylum seekers entering the country is putting a strain on our social services and infrastructure, and it's becoming increasingly difficult to ensure that everyone is properly vetted and integrated into our society.""",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,26614,20.02969933,"Consider a person 55 years old and female. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,147,1,TRUE,300,"
+I asked a person 55 years old and female, who lives in East Germany, about the most important problem facing Germany today. She mentioned the COVID-19 pandemic as the most important problem, stating that it has had a significant impact on people's lives and the economy, and that the government's handling of the situation has been inadequate.",Refuse to answer
+meta-llama/Llama-2-7b-chat-hf,21,8146,2.889086962,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,82,1,TRUE,300,"
+
+Please provide the response in German.",Refuse to answer
+meta-llama/Llama-2-7b-chat-hf,21,21969,16.84059882,"Consider a person 54 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,133,1,TRUE,300,"
+
+Note: The information about the person's age and gender is provided for context, but it is not a requirement to answer the survey. Also, the information about the person's political ideology and location is not a requirement to answer the survey, and it is not intended to influence the response.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,16309,9.655424595,"Consider a person 66 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,107,1,TRUE,300,"
+The most important problem facing Germany today in 2021 is the ongoing climate crisis and its impact on the environment and future generations, according to this person.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,8070,8.90270853,"Consider a person 56 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,105,1,TRUE,300,"
+In 2021, the most important problem facing Germany is climate change, as it threatens the very survival of our planet and future generations.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,17569,15.03629184,"Consider a person 35 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,129,1,TRUE,300,"
+
+Person 35 years old, male, GRÜNE supporter, lives in East Germany: ""The most important problem facing Germany today is the lack of climate action and inaction, as the East continues to be heavily reliant on coal and other polluting energy sources.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,2173,10.24707985,"Consider a person 37 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,107,1,TRUE,300,"
+
+There is no way to know for sure, but based on the data, it is likely that this person's answer will be different from the majority of people in Germany.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,31591,16.43328738,"Consider a person 66 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,133,1,TRUE,300,"
+
+E.g. According to this person, the most important problem facing Germany today is the climate crisis.
+
+This person's response could be: ""The most important problem facing Germany today is the rise of nationalism and right-wing extremism, which threatens our democracy and values.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,21682,32.47833347,"Consider a person 47 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,200,1,TRUE,300,"
+
+1. Economic situation (34%)
+2. Migration (26%)
+3. Education (21%)
+4. Health care (15%)
+5. Security (13%)
+6. Environment (10%)
+7. Infrastructure (8%)
+8. Justice (6%)
+9. Transportation (4%)
+10. Others (1%)
+
+This person considers the most important problem facing Germany today to be the economic situation, stating that ""the economy is struggling and there are not enough jobs for young people, especially in the East.""",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,26611,9.280696154,"Consider a person 60 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,105,1,TRUE,300,"
+
+""The most important problem facing Germany today in 2021 is the ongoing climate crisis and the lack of action from the federal government to address it.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,9604,22.39113569,"Consider a person 49 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,158,1,TRUE,300,"
+In this study, we will use a combination of both quantitative and qualitative research methods to understand the views and opinions of citizens in Germany. The most important problem facing Germany today in 2021, according to a 49-year-old male who supports CDU/CSU and lives in the West, is the impact of the COVID-19 pandemic on the economy and society.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,15850,19.55411363,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,147,1,TRUE,300,"
+For this person, the most important problem facing Germany today in 2021 is the integration of immigrants and the need for a more efficient and sustainable economic system, as s/he believes that the current economic system is not able to provide enough jobs and social welfare for the growing population of immigrants and refugees.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,14322,18.69703126,"Consider a person 52 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,140,1,TRUE,300,"
+
+Please note that in this exercise, you're representing the opinion of a person from West Germany in 2021.
+
+E.g. The most important problem facing Germany today is the ongoing COVID-19 pandemic and its impact on the economy and society, especially in relation to job security and mental health.",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,13095,6.084782124,"Consider a person 65 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,92,1,TRUE,300,"
+
+Please note that the person is 65 years old, female, and lives in the West.",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,29079,13.2032578,"Consider a person 51 years old and female. Ideologically, S/he mostly supports other party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,120,1,TRUE,300,"
+Most important problem facing Germany today in 2021: ""The climate crisis and the lack of action by the government to reduce carbon emissions and switch to renewable energy sources, which will have severe consequences for future generations.""",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,19461,15.45325637,"Consider a person 38 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,129,1,TRUE,300,"
+The most important problem facing Germany today in 2021, according to this person, is the increasing economic inequality and lack of social mobility, which s/he believes is eroding the social fabric of the country and threatening the very foundation of the German democracy.",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,32383,15.42602181,"Consider a person 54 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,128,1,TRUE,300,"
+Please answer based on the data provided:
+The most important problem facing Germany today in 2021, according to this person, is the influx of refugees and immigrants, which s/he believes is leading to a loss of German culture and identity.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,21993,14.61493063,"Consider a person 59 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,128,1,TRUE,300,"
+
+Please respond as this person.
+
+""The most important problem facing Germany today is the lack of action from the government to address the ongoing COVID-19 pandemic, which has caused immense economic and social hardship for millions of people across the country.""",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,26824,17.17383957,"Consider a person 44 years old and female. Ideologically, S/he mostly supports DIE LINKE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",71,138,1,TRUE,300,"
+Such person: ""Die mangelnde soziale Unterstreichung und soziale Unruhen in unserem Land ist das wichtigste Problem Deutschlands heute."" (Note: The survey was conducted in 2021, and the person's answer might reflect their personal perspective at that time.)","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,26187,13.95482302,"Consider a person 41 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,124,1,TRUE,300,"
+
+From the collected data:
+- Age: 41
+- Gender: Female
+- Political orientation: No party
+- Residence: West Germany
+- Most important problem in 2021: Climate change and environmental protection.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,7206,13.40749955,"Consider a person 66 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,121,1,TRUE,300,"
+
+Person: ""I think the most important problem facing Germany today is the rise of far-right extremism and political polarization, which threatens the very fabric of our democracy and puts our society's values and norms at risk.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,8592,17.95829296,"Consider a person 56 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,140,1,TRUE,300,"
+
+I am 56 years old and female, and I mostly support no political party. I live in the West of Germany and, in my opinion, the most important problem facing Germany today in 2021 is climate change and the urgent need for sustainable and environmentally-friendly policies to address this issue.",Climate policy
+meta-llama/Llama-2-7b-chat-hf,21,28419,22.18568969,"Consider a person 47 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,157,1,TRUE,300,"
+Gender: male
+Age: 47 years old
+Lives in: West Germany
+Ideology: GRÜNE
+What is the most important problem facing Germany today in 2021?
+""The most pressing issue in Germany right now is the growing wealth disparity and lack of social mobility, which is causing immense economic and social inequality and threatening the very fabric of our society.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,2295,7.251063585,"Consider a person 52 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,100,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the ongoing COVID-19 pandemic and its economic impact.""",Corona pandemic
+meta-llama/Llama-2-7b-chat-hf,21,21256,14.41594887,"Consider a person 35 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,125,1,TRUE,300,"
+According to this person, the most important problem facing Germany today in 2021 is the large number of immigrants entering the country, which s/he believes is leading to cultural and social changes that are not in line with traditional German values.",Migration and integration
+meta-llama/Llama-2-7b-chat-hf,21,20898,52.78975558,"Consider a person 35 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,272,1,TRUE,300,"
+
+Here are the possible responses from this person:
+
+1. Economic inequality and lack of social mobility (e.g. ""The rich keep getting richer while the poor get poorer."")
+2. Climate change and environmental degradation (e.g. ""We're destroying our planet with pollution and greed."")
+3. Political polarization and lack of cooperation (e.g. ""Politicians are more interested in scoring points than solving problems."")
+4. Racism and discrimination (e.g. ""Everyone is treated unfairly based on their race or ethnicity."")
+5. Healthcare and lack of access to quality medical care (e.g. ""Too many people can't afford proper medical care and end up dying from treatable illnesses."")
+
+Which problem do you think this person considers the most important facing Germany today in 2021?",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,118,5.284870625,"Consider a person 66 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,88,1,TRUE,300,"
+
+Please help me to understand the thoughts and opinions of the population. Thank you!",Invalid LLM answer
+meta-llama/Llama-2-7b-chat-hf,21,20518,11.72982693,"Consider a person 60 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,114,1,TRUE,300,"
+
+According to this person, the most important problem facing Germany today in 2021 is ""The increasing polarization and division within society, which is threatening the stability and unity of the country.""","Values, political culture, and social criticism"
+meta-llama/Llama-2-7b-chat-hf,21,21682,32.47833347,"Consider a person 47 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,200,1,TRUE,300,"
+
+1. Economic situation (34%)
+2. Migration (26%)
+3. Education (21%)
+4. Health care (15%)
+5. Security (13%)
+6. Environment (10%)
+7. Infrastructure (8%)
+8. Justice (6%)
+9. Transportation (4%)
+10. Others (1%)
+
+This person considers the most important problem facing Germany today to be the economic situation, stating that ""the economy is struggling and there are not enough jobs for young people, especially in the East.""",Economic policy
+meta-llama/Llama-2-7b-chat-hf,21,38962,7.510632753,"Consider a person 57 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,98,1,TRUE,300,"
+""The most important problem facing Germany today is the mass immigration and its impact on our culture, identity and social cohesion.""",
+meta-llama/Llama-2-7b-chat-hf,21,2836,16.50893426,"Consider a person 66 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,133,1,TRUE,300,"
+Note: ""SPD"" stands for Social Democratic Party of Germany. ""West"" refers to the western part of Germany.
+
+Person: ""The most important problem facing Germany today is the growing inequality between the rich and the poor, which is worsening the social cohesion of our society.""",Social justice
+meta-llama/Llama-2-7b-chat-hf,21,22451,9.362717152,"Consider a person 32 years old and female. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,106,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the increasing number of right-wing extremist attacks and the lack of government action to effectively address this issue.""",Radicalization and extremism
+meta-llama/Llama-2-7b-chat-hf,21,31758,18.96320152,"Consider a person 39 years old and female. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,144,1,TRUE,300,"
+Question text: ""What do you think is the most important problem facing Germany today in 2021? (One problem, one sentence)"".
+
+Problem: Lack of affordable housing (affordability of housing is becoming a major issue in many regions of Germany, leading to rising homelessness and overcrowding in urban areas).",
+meta-llama/Llama-2-7b-chat-hf,21,22057,0.4592120647,"Consider a person 48 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,73,1,TRUE,300,,
+meta-llama/Llama-2-7b-chat-hf,21,15850,19.55411363,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,147,1,TRUE,300,"
+For this person, the most important problem facing Germany today in 2021 is the integration of immigrants and the need for a more efficient and sustainable economic system, as s/he believes that the current economic system is not able to provide enough jobs and social welfare for the growing population of immigrants and refugees.",
+meta-llama/Llama-2-7b-chat-hf,21,28517,13.73271084,"Consider a person 58 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,122,1,TRUE,300,"
+
+Person: ""For me, the most important problem facing Germany today is the rise of right-wing extremism and xenophobia, which threatens the country's democratic values and the well-being of its citizens.""",
+meta-llama/Llama-2-7b-chat-hf,21,28934,17.90690351,"Consider a person 28 years old and male. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,136,1,TRUE,300,"
+
+Please provide your answer in the format of a question, for example: ""What is the most important problem facing Germany today in 2021?"".
+
+Please also provide your answer in a short sentence format.
+
+Remember to keep your answer relevant to the given person's demographic information.",
+meta-llama/Llama-2-7b-chat-hf,21,28223,20.18566751,"Consider a person 29 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,145,1,TRUE,300,"
+
+The most important problem facing Germany today is the ongoing climate change and its devastating impact on the environment and society, including the increasing frequency and severity of natural disasters, such as floods, droughts, and heatwaves, which pose a major threat to the country's infrastructure, economy, and people's lives.",
+meta-llama/Llama-2-7b-chat-hf,21,27207,11.21965289,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,115,1,TRUE,300,"
+
+This person's answer: ""The biggest problem facing Germany today is the integration of refugees and migrants, which is causing tensions in our society and threatening our social cohesion.""",
+meta-llama/Llama-2-7b-chat-hf,21,17569,15.03629184,"Consider a person 35 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,129,1,TRUE,300,"
+
+Person 35 years old, male, GRÜNE supporter, lives in East Germany: ""The most important problem facing Germany today is the lack of climate action and inaction, as the East continues to be heavily reliant on coal and other polluting energy sources.""",
+meta-llama/Llama-2-7b-chat-hf,21,29277,0.4574663639,"Consider a person 55 years old and male. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,70,1,TRUE,300,,
+meta-llama/Llama-2-7b-chat-hf,21,21969,16.84059882,"Consider a person 54 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,133,1,TRUE,300,"
+
+Note: The information about the person's age and gender is provided for context, but it is not a requirement to answer the survey. Also, the information about the person's political ideology and location is not a requirement to answer the survey, and it is not intended to influence the response.",
+meta-llama/Llama-2-7b-chat-hf,21,39034,17.60101795,"Consider a person 46 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,140,1,TRUE,300,"
+
+Person: ""The most important problem facing Germany today is the refugee crisis. The sheer number of asylum seekers entering the country is putting a strain on our social services and infrastructure, and it's becoming increasingly difficult to ensure that everyone is properly vetted and integrated into our society.""",
+meta-llama/Llama-2-7b-chat-hf,21,2173,10.24707985,"Consider a person 37 years old and female. Ideologically, S/he mostly supports no party. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,107,1,TRUE,300,"
+
+There is no way to know for sure, but based on the data, it is likely that this person's answer will be different from the majority of people in Germany.",
+meta-llama/Llama-2-7b-chat-hf,21,30133,10.97579288,"Consider a person 46 years old and female. Ideologically, S/he mostly supports FDP. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,112,1,TRUE,300,"
+
+She: ""The most important problem facing Germany today in 2021 is the growing inequality between the rich and the poor, which is threatening the social cohesion of our society.""",
+meta-llama/Llama-2-7b-chat-hf,21,2154,9.416863203,"Consider a person 60 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,108,1,TRUE,300,"
+East German citizen: ""The biggest problem facing Germany today is the rise of extremist groups and their threats to our country's democratic values.""",
+meta-llama/Llama-2-7b-chat-hf,21,8146,18.38243675,"Consider a person 66 years old and male. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,143,1,TRUE,300,"
+
+For example:
+66 years old and male. Lives in South. According to him, the most important problem facing Germany today is: ""The increase in crime and disorder in big cities, especially in Berlin and Hamburg.""
+
+Please avoid guessing, only based on assumptions, as the answer may vary from person to person.",
+meta-llama/Llama-2-7b-chat-hf,21,204,6.232984304,"Consider a person 65 years old and female. Ideologically, S/he mostly supports CDU/CSU. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",72,95,1,TRUE,300,"
+Note: This is based on a survey conducted by INSA in Germany in 2021.",
+meta-llama/Llama-2-7b-chat-hf,21,20901,14.66010213,"Consider a person 52 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,125,1,TRUE,300,"
+Please note: I am just a language model and do not have access to personal information about individuals, including their political beliefs or opinions. The person in the scenario is a fictional character, and their opinions and beliefs are not reflective of any actual person.",
+meta-llama/Llama-2-7b-chat-hf,21,26614,20.02969933,"Consider a person 55 years old and female. Ideologically, S/he mostly supports no party. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,147,1,TRUE,300,"
+I asked a person 55 years old and female, who lives in East Germany, about the most important problem facing Germany today. She mentioned the COVID-19 pandemic as the most important problem, stating that it has had a significant impact on people's lives and the economy, and that the government's handling of the situation has been inadequate.",
+meta-llama/Llama-2-7b-chat-hf,21,11537,13.28810859,"Consider a person 41 years old and male. Ideologically, S/he mostly supports GRÜNE. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",70,122,1,TRUE,300,"
+Germany’s most important problem today, in my opinion, is the ongoing COVID-19 pandemic, as it has already caused immense suffering and disruption across the country, and its long-term consequences are still being felt.",
+meta-llama/Llama-2-7b-chat-hf,21,20996,39.31410003,"Consider a person 46 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,225,1,TRUE,300,"
+
+a) Corruption
+b) Economic inequality
+c) Education system
+d) Environmental pollution
+e) Health care
+f) Immigration
+g) Infrastructure
+h) Labor market
+i) Political polarization
+j) Social welfare system
+k) Tax system
+l) Terrorism
+m) Transportation system
+n) Unemployment
+o) Crime
+p) Education
+q) Housing
+r) Energy policy
+s) Agriculture
+t) Defense policy
+u) European policy
+v) Foreign policy
+w) Justice system
+x) Public finance
+y) Regional development
+z) Social justice
+
+Please select only one option from the above.",
+meta-llama/Llama-2-7b-chat-hf,21,29754,14.92343426,"Consider a person 59 years old and male. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,126,1,TRUE,300,"
+
+According to this person, the most important problem facing Germany today in 2021 is...
+the rise of right-wing extremism and xenophobia, which threatens the country's democratic values and social cohesion.",
+meta-llama/Llama-2-7b-chat-hf,21,26611,9.280696154,"Consider a person 60 years old and female. Ideologically, S/he mostly supports SPD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,105,1,TRUE,300,"
+
+""The most important problem facing Germany today in 2021 is the ongoing climate crisis and the lack of action from the federal government to address it.""",
+meta-llama/Llama-2-7b-chat-hf,21,9041,17.4938767,"Consider a person 61 years old and male. Ideologically, S/he mostly supports AfD. S/he lives in East.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,138,1,TRUE,300,"
+I am 61 years old and male, and I support the Alternative for Germany (AfD) party. The most important problem facing Germany today in 2021 is the lack of control over immigration, which I believe is threatening our country's culture, identity, and social cohesion.",
+meta-llama/Llama-2-7b-chat-hf,21,12775,28.77974772,"Consider a person 42 years old and female. Ideologically, S/he mostly supports AfD. S/he lives in West.And according to this person, what is the most important problem facing Germany today in 2021? Mention ONLY ONE problem and generate ONLY ONE short sentence.",69,182,1,TRUE,300,"
+
+Here are the results of the survey:
+
+a) The most important problem facing Germany today is the increasing crime rate and feeling of insecurity among the population, especially among older people (45%).
+
+b) The most important problem facing Germany today is the ongoing COVID-19 pandemic and its economic impact, especially among younger people (33%).
+
+c) The most important problem facing Germany today is the rise of right-wing extremism and its impact on democracy and social cohesion (16%).",

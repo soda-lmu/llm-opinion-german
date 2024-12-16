@@ -1,0 +1,60 @@
+subclassid,subclass_name,upperclass_id,upperclass_name
+1,Sonstiges,10,Sonstiges
+2,Wahlkampf und Regierungsbildung,0,Politische Strukturen und Prozesse
+3,Politische Strukturen und Prozesse,0,Politische Strukturen und Prozesse
+4,"Werte, politische Kultur und Gesellschaftskritik",16,"Werte, politische Kultur und Gesellschaftskritik"
+5,Demokratie,0,Politische Strukturen und Prozesse
+6,Medien,9,Medien und Kommunikation
+7,Bürokratie,0,Politische Strukturen und Prozesse
+8,Lobbyismus,0,Politische Strukturen und Prozesse
+9,Korruption,0,Politische Strukturen und Prozesse
+10,Politikverdrossenheit,0,Politische Strukturen und Prozesse
+11,Parteienkritik allgemein,0,Politische Strukturen und Prozesse
+12,Parteienkritik spezifisch,0,Politische Strukturen und Prozesse
+13,Politiker:innenkritik allgemein,0,Politische Strukturen und Prozesse
+14,Politiker:innenkritik spezifisch,0,Politische Strukturen und Prozesse
+15,Populismus,16,"Werte, politische Kultur und Gesellschaftskritik"
+16,Innere Sicherheit,7,Sicherheits
+17,Kriminalität und Gewal,7,Sicherheits
+18,Terrorismus,7,Sicherheits
+19,Radikalisierung und Extremismus,7,Sicherheits
+20,Recht und Justiz,7,Sicherheits
+21,Außenpolitik,8,Außenpolitik
+22,Europa und Europäische Unio,8,Außenpolitik
+23,(Beziehungen Deutschlands zu den) USA,8,Außenpolitik
+24,(Beziehungen Deutschlands zu) Russland,8,Außenpolitik
+25,(Beziehungen Deutschlands zur) Türke,8,Außenpolitik
+26,Internationale Konflikte und Frieden,8,Außenpolitik
+27,Krieg in der Ukraine,8,Außenpolitik
+28,Verteidigung,8,Außenpolitik
+29,Sozialpolitik,1,Sozialpolitik
+30,Soziale Gerechtigkeit,1,Sozialpolitik
+31,Armut,1,Sozialpolitik
+32,Arbeitsmarktpolitik,6,Wirtschaftspolitik
+33,Arbeitslosigkeit und Grundsicherung,1,Sozialpolitik
+34,Lohnpolitik,6,Wirtschaftspolitik
+35,Rente und Demographischer Wandel,1,Sozialpolitik
+36,Migration und Integration,11,Migration und Integration
+37,Gesundheitspolitik,2,Gesundheitspolitik
+38,Pflege,2,Gesundheitspolitik
+39,Corona-Pandemie,2,Gesundheitspolitik
+40,Familienpolitik,3,Familien- und Gleichstellungspolitik
+41,Gleichstellung,3,Familien- und Gleichstellungspolitik
+42,Bildungspolitik,4,Bildungspolitik
+43,Schulpolitik,4,Bildungspolitik
+44,Energiepolitik,5,Umweltpolitik
+45,Umweltpolitik,5,Umweltpolitik
+46,Klimapolitik,5,Umweltpolitik
+47,Naturkatastrophen,5,Umweltpolitik
+48,Wirtschaftspolitik,6,Wirtschaftspolitik
+49,Preisniveau,6,Wirtschaftspolitik
+50,Infrastruktur,6,Wirtschaftspolitik
+51,Digitale Infrastruktur,6,Wirtschaftspolitik
+52,Verkehrspolitik,6,Wirtschaftspolitik
+53,Wohnungspolitik,6,Wirtschaftspolitik
+54,Finanzpolitik,6,Wirtschaftspolitik
+55,Steuerpolitik,6,Wirtschaftspolitik
+56,Ostdeutschland,12,Ostdeutschland
+-99,keine Angabe,13,keine Angabe
+-98,weiß nich,14,weiß nich
+,,15,LLM refusal

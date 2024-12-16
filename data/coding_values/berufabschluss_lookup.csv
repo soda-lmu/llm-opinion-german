@@ -1,0 +1,14 @@
+code_2330,2330_gesis_class,berufabschluss_clause,2330_sampling_id,2330_sampling_class
+1,"Beruflichbetriebliche Anlernzeit mit Abschlusszeugnis, aber keine Lehre",hat keine berufliche Ausbildung abgeschlossen.,5,some sort of Lehre
+2,Teilfacharbeiterabschluss,hat eine Lehre abgeschlossen.,5,some sort of Lehre
+3,Abgeschlossene gewerbliche oder landwirtschaftliche Lehre,hat eine gewerbliche oder landwirtschaftliche Lehre abgeschlossen.,5,some sort of Lehre
+4,Abgeschlossene kaufmännische Lehre,hat eine kaufmännische Lehre abgeschlossen.,5,some sort of Lehre
+5,"Berufliches Praktikum, Volontariat",hat ein Berufliches Praktikum oder Volontariat abgeschlossen.,8,some sort of Lehre
+6,Berufsfachschulabschluss,hat einen Berufsfachschulabschluss.,4,some sort of Lehre
+7,Fachschulabschluss,hat einen Fachschulabschluss.,3,meister/tech
+8,"Meister, Technikerabschluss",hat einen Meisterabschluss oder Technikerabschluss.,7,meister/tech
+9,Fachhochschulabschluss,hat einen Fachhochschulabschluss.,2,applied sciences
+10,Hochschulabschluss,hat einen Universitätsabschluss.,1,uni
+12,Andere berufliche Ausbildungszertifikat,hat eine Lehre abgeschlossen.,5,some sort of Lehre
+13,Noch in Ausbildung/Studium,befindet sich noch in beruflicher Ausbildung.,6,other
+14,Keine abgeschlossene Berufsausbildung,hat keine berufliche Ausbildung abgeschlossen.,6,other

@@ -1,0 +1,17 @@
+{
+  "prompt_fname": "prompt.txt",
+  "model_name": "google/gemma-2-2b-it",
+  "batch_size":16,
+  "wave_number": 10,
+  "device": "cuda",
+  "quantization_config": {
+    "bnb_4bit_compute_dtype": "float16",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_quant_type": "nf4"
+  },
+  "generation_config": {
+    "max_new_tokens": 300,
+    "temperature": 1.0,
+    "do_sample": true
+  }
+}

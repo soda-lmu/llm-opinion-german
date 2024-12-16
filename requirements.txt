@@ -1,0 +1,23 @@
+colorlog
+datasets
+deep_translator
+python-dotenv
+dython
+evaluate
+hyperopt
+langdetect
+matplotlib
+numpy
+pandas
+plotly
+scipy
+setuptools
+scikit-learn
+tqdm
+transformers
+lingua-language-detector
+bitsandbytes
+transformers==4.36.2
+accelerate>=0.26.0
+torch==2.1.2
+bitsandbytes @ https://github.com/jllllll/bitsandbytes-windows-webui/releases/download/wheels/bitsandbytes-0.41.1-py3-none-win_amd64.whl

@@ -1,0 +1,18 @@
+highest_prob_label,google-gemma-7b-it_12_1712704376_modified,Llama2_all,mistralai-Mixtral-8x7B-Instruct-v0.1_12_1712772173
+Politische Strukturen und Prozesse,0.0724,0.0724,0.0724
+Sozialpolitik,0.2374,0.2374,0.2374
+Gesundheitspolitik,0.0096,0.0096,0.0096
+Familien- und Gleichstellungspolitik,0.0026,0.0026,0.0026
+Bildungspolitik,0.0223,0.0223,0.0223
+Umweltpolitik,0.1394,0.1394,0.1394
+Wirtschaftspolitik,0.0831,0.0831,0.0831
+Sicherheits,0.0754,0.0754,0.0754
+Außenpolitik,0.0124,0.0124,0.0124
+Medien und Kommunikation,0.0003,0.0003,0.0003
+Sonstiges,0.0297,0.0297,0.0297
+Migration und Integration,0.23,0.23,0.23
+Ostdeutschland,0.0019,0.0019,0.0019
+keine Angabe,0.0369,0.0369,0.0369
+weiß nich,0.011,0.011,0.011
+LLM refusal,0.0,0.0,0.0
+"Werte, politische Kultur und Gesellschaftskritik",0.0355,0.0355,0.0355
