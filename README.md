@@ -1,7 +1,6 @@
 # Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study  
 
-## Abstract  
-
+[![arXiv](https://img.shields.io/badge/arXiv-2305.12182-b31b1b.svg)](https://arxiv.org/abs/2412.13169)
 
 ## Dataset
 Downloading the raw survey dataset is possible for academic research and teaching, after registration at GESIS- Leibniz Institute for the Social Sciences.
@@ -36,9 +35,23 @@ https://search.gesis.org/research_data/ZA6838?doi=10.4232/1.14114
     - the raw data for the figures are available under `results`
 
 
-# References
+## References
 The used resampling loss implementation is taken from https://github.com/Roche/BalancedLossNLP/blob/main/Reuters/util_loss.py
 The survey data is from:
 - GLES (2023). GLES Panel 2016-2021, Waves 1-21. GESIS, Cologne. ZA6838 data file version 6.0.0, https://doi.org/10.4232/1.14114.
 
+
+## Citation
+If you found the resources in this repository useful, please cite:
+```
+@misc{ma2024algorithmic,
+      title={Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study}, 
+      author={Bolei Ma and Berk Yoztyurk and Anna-Carolina Haensch and Xinpeng Wang and Markus Herklotz and Frauke Kreuter and Barbara Plank and Matthias Assenmacher},
+      year={2024},
+      eprint={2412.13169},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.13169}, 
+}
+```
 
