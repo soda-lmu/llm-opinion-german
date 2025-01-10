@@ -1,6 +1,6 @@
 # Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study  
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.12182-b31b1b.svg)](https://arxiv.org/abs/2412.13169)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.13169-b31b1b.svg)](https://arxiv.org/abs/2412.13169)
 
 ## Dataset
 Downloading the raw survey dataset is possible for academic research and teaching, after registration at GESIS- Leibniz Institute for the Social Sciences.
